@@ -1,4 +1,4 @@
-# 📊 Myntra Sales Data Analysis (Excel)
+# 📊 Myntra Sales & Product Performance Analysis
 
 ## 📌 Overview  
 This project analyzes Myntra product-level sales data using Microsoft Excel to uncover insights related to revenue, product categories, brand performance, and pricing strategies.
